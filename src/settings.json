@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is approaching soon!",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts",
+        "title": "Yay - Elevate Your Tech Insights"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay - Elevate Your Tech Insights",
+  "subtitle": "Discover, Learn, Inspire: A Hub for Innovators and Tech Enthusiasts"
+}
